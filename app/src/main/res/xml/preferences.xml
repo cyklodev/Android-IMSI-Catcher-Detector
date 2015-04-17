@@ -71,8 +71,8 @@
             android:summary="@string/pref_ocid_requestkey_summary">
             <intent
                 android:action="android.intent.action.MAIN"
-                android:targetClass="com.SecUpwN.AIMSICD.activities.OpenCellIdActivity"
-                android:targetPackage="com.SecUpwN.AIMSICD"/>
+                android:targetClass="com.cyklodev.AIMSICD.activities.OpenCellIdActivity"
+                android:targetPackage="com.cyklodev.AIMSICD"/>
         </Preference>
         <EditTextPreference
             android:key="@string/pref_ocid_key"

@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.SecUpwN.AIMSICD.activities.CreditsRollActivity"
+    tools:context="com.cyklodev.AIMSICD.activities.CreditsRollActivity"
     android:background="#000000">
 
-    <com.SecUpwN.AIMSICD.fragments.CreditsRollView
+    <com.cyklodev.AIMSICD.fragments.CreditsRollView
         android:id="@+id/creditsroll"
         android:layout_width="match_parent"
         android:layout_height="0dp"
